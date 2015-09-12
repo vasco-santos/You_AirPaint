@@ -1,0 +1,542 @@
+D:\PEI YouInteract\You_AirPaint\You_Template\obj\Debug\You_AirPaint.csprojResolveAssemblyReference.cache
+D:\PEI YouInteract\You_AirPaint\You_Template\obj\Debug\Keyboard.baml
+D:\PEI YouInteract\You_AirPaint\You_Template\obj\Debug\MainWindow.baml
+D:\PEI YouInteract\You_AirPaint\You_Template\obj\Debug\AirPaint.baml
+D:\PEI YouInteract\You_AirPaint\You_Template\obj\Debug\Keyboard.g.cs
+D:\PEI YouInteract\You_AirPaint\You_Template\obj\Debug\MainWindow.g.cs
+D:\PEI YouInteract\You_AirPaint\You_Template\obj\Debug\AirPaint.g.cs
+D:\PEI YouInteract\You_AirPaint\You_Template\obj\Debug\App.g.cs
+D:\PEI YouInteract\You_AirPaint\You_Template\obj\Debug\You_AirPaint_MarkupCompile.cache
+D:\PEI YouInteract\You_AirPaint\You_Template\obj\Debug\You_AirPaint.g.resources
+D:\PEI YouInteract\You_AirPaint\You_Template\obj\Debug\You_AirPaint.Properties.Resources.resources
+D:\PEI YouInteract\You_AirPaint\You_Template\obj\Debug\You_AirPaint.csproj.GenerateResource.Cache
+D:\PEI YouInteract\You_AirPaint\You_Template\bin\Debug\You_AirPaint.exe.config
+D:\PEI YouInteract\You_AirPaint\You_Template\bin\Debug\You_AirPaint.exe
+D:\PEI YouInteract\You_AirPaint\You_Template\bin\Debug\You_AirPaint.pdb
+D:\PEI YouInteract\You_AirPaint\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+D:\PEI YouInteract\You_AirPaint\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+D:\PEI YouInteract\You_AirPaint\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+D:\PEI YouInteract\You_AirPaint\You_Template\bin\Debug\YouInteract.pdb
+D:\PEI YouInteract\You_AirPaint\You_Template\obj\Debug\You_AirPaint.exe
+D:\PEI YouInteract\You_AirPaint\You_Template\obj\Debug\You_AirPaint.pdb
+D:\YouInteract BETA\You_AirPaint\You_Template\bin\Debug\You_AirPaint.exe.config
+D:\YouInteract BETA\You_AirPaint\You_Template\obj\Debug\You_AirPaint.exe
+D:\YouInteract BETA\You_AirPaint\You_Template\obj\Debug\You_AirPaint.pdb
+D:\YouInteract BETA\You_AirPaint\You_Template\obj\Debug\You_AirPaint.csprojResolveAssemblyReference.cache
+D:\YouInteract BETA\You_AirPaint\You_Template\obj\Debug\Keyboard.baml
+D:\YouInteract BETA\You_AirPaint\You_Template\obj\Debug\MainWindow.baml
+D:\YouInteract BETA\You_AirPaint\You_Template\obj\Debug\AirPaint.baml
+D:\YouInteract BETA\You_AirPaint\You_Template\obj\Debug\Keyboard.g.cs
+D:\YouInteract BETA\You_AirPaint\You_Template\obj\Debug\MainWindow.g.cs
+D:\YouInteract BETA\You_AirPaint\You_Template\obj\Debug\AirPaint.g.cs
+D:\YouInteract BETA\You_AirPaint\You_Template\obj\Debug\App.g.cs
+D:\YouInteract BETA\You_AirPaint\You_Template\obj\Debug\You_AirPaint_MarkupCompile.cache
+D:\YouInteract BETA\You_AirPaint\You_Template\obj\Debug\You_AirPaint.g.resources
+D:\YouInteract BETA\You_AirPaint\You_Template\obj\Debug\You_AirPaint.Properties.Resources.resources
+D:\YouInteract BETA\You_AirPaint\You_Template\obj\Debug\You_AirPaint.csproj.GenerateResource.Cache
+D:\YouInteract BETA\You_AirPaint\You_Template\bin\Debug\You_AirPaint.exe
+D:\YouInteract BETA\You_AirPaint\You_Template\bin\Debug\You_AirPaint.pdb
+D:\YouInteract BETA\You_AirPaint\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+D:\YouInteract BETA\You_AirPaint\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+D:\YouInteract BETA\You_AirPaint\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+D:\YouInteract BETA\You_AirPaint\You_Template\bin\Debug\YouInteract.dll
+D:\YouInteract BETA\You_AirPaint\You_Template\bin\Debug\YouInteract.pdb
+C:\Users\VascoSantos\Dropbox\Group Projects\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\You_AirPaint\You_Template\bin\Debug\You_AirPaint.exe.config
+C:\Users\VascoSantos\Dropbox\Group Projects\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\You_AirPaint\You_Template\obj\Debug\You_AirPaint.exe
+C:\Users\VascoSantos\Dropbox\Group Projects\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\You_AirPaint\You_Template\obj\Debug\You_AirPaint.pdb
+D:\YouInteract BETA\You_AirPaint\You_Template\obj\Debug\MyStyles\CursorStyles.baml
+D:\YouInteract BETA\You_AirPaint\You_Template\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\YouInteract BETA\You_AirPaint\You_Template\obj\Debug\You_AirPaint_MarkupCompile.lref
+D:\YouInteract BETA\You_AirPaint\You_Template\bin\Debug\Microsoft.Expression.Controls.dll
+D:\YouInteract BETA\You_AirPaint\You_Template\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\YouInteract BETA\You_AirPaint\You_Template\bin\Debug\Microsoft.Expression.Controls.xml
+D:\YouInteract BETA\You_AirPaint\You_Template\bin\Debug\Microsoft.Expression.Drawing.xml
+D:\YouInteract BETA\You_AirPaint 2\You_Template\bin\Debug\You_AirPaint.exe.config
+D:\YouInteract BETA\You_AirPaint 2\You_Template\obj\Debug\You_AirPaint.exe
+D:\YouInteract BETA\You_AirPaint 2\You_Template\obj\Debug\You_AirPaint.pdb
+D:\YouInteract BETA\You_AirPaint 2\You_Template\bin\Debug\You_AirPaint.exe
+D:\YouInteract BETA\You_AirPaint 2\You_Template\bin\Debug\You_AirPaint.pdb
+D:\YouInteract BETA\You_AirPaint 2\You_Template\bin\Debug\Microsoft.Expression.Controls.dll
+D:\YouInteract BETA\You_AirPaint 2\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+D:\YouInteract BETA\You_AirPaint 2\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+D:\YouInteract BETA\You_AirPaint 2\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+D:\YouInteract BETA\You_AirPaint 2\You_Template\bin\Debug\YouInteract.dll
+D:\YouInteract BETA\You_AirPaint 2\You_Template\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\YouInteract BETA\You_AirPaint 2\You_Template\bin\Debug\Microsoft.Expression.Controls.xml
+D:\YouInteract BETA\You_AirPaint 2\You_Template\bin\Debug\YouInteract.pdb
+D:\YouInteract BETA\You_AirPaint 2\You_Template\bin\Debug\Microsoft.Expression.Drawing.xml
+D:\YouInteract BETA\You_AirPaint 2\You_Template\obj\Debug\You_AirPaint.csprojResolveAssemblyReference.cache
+D:\YouInteract BETA\You_AirPaint 2\You_Template\obj\Debug\Keyboard.baml
+D:\YouInteract BETA\You_AirPaint 2\You_Template\obj\Debug\MainWindow.baml
+D:\YouInteract BETA\You_AirPaint 2\You_Template\obj\Debug\MyStyles\CursorStyles.baml
+D:\YouInteract BETA\You_AirPaint 2\You_Template\obj\Debug\Keyboard.g.cs
+D:\YouInteract BETA\You_AirPaint 2\You_Template\obj\Debug\MainWindow.g.cs
+D:\YouInteract BETA\You_AirPaint 2\You_Template\obj\Debug\AirPaint.g.cs
+D:\YouInteract BETA\You_AirPaint 2\You_Template\obj\Debug\App.g.cs
+D:\YouInteract BETA\You_AirPaint 2\You_Template\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\YouInteract BETA\You_AirPaint 2\You_Template\obj\Debug\You_AirPaint_MarkupCompile.cache
+D:\YouInteract BETA\You_AirPaint 2\You_Template\obj\Debug\You_AirPaint_MarkupCompile.lref
+D:\YouInteract BETA\You_AirPaint 2\You_Template\obj\Debug\AirPaint.baml
+D:\YouInteract BETA\You_AirPaint 2\You_Template\obj\Debug\You_AirPaint.g.resources
+D:\YouInteract BETA\You_AirPaint 2\You_Template\obj\Debug\You_AirPaint.Properties.Resources.resources
+D:\YouInteract BETA\You_AirPaint 2\You_Template\obj\Debug\You_AirPaint.csproj.GenerateResource.Cache
+D:\YouInteract BETA\You_AirPaint 2\You_Template\obj\Debug\YouCursor.baml
+D:\YouInteract BETA\You_AirPaint 2\You_Template\obj\Debug\YouCursor.g.cs
+D:\YouInteract BETA\You_AirPaint\You_Template\obj\Debug\YouCursor.baml
+D:\YouInteract BETA\You_AirPaint\You_Template\obj\Debug\YouCursor.g.cs
+D:\YouInteract BETA\You_AirPaint TEST\You_Template\bin\Debug\You_AirPaint.exe.config
+D:\YouInteract BETA\You_AirPaint TEST\You_Template\obj\Debug\You_AirPaint.exe
+D:\YouInteract BETA\You_AirPaint TEST\You_Template\obj\Debug\You_AirPaint.pdb
+D:\YouInteract BETA\You_AirPaint TEST\You_Template\bin\Debug\You_AirPaint.exe
+D:\YouInteract BETA\You_AirPaint TEST\You_Template\bin\Debug\You_AirPaint.pdb
+D:\YouInteract BETA\You_AirPaint TEST\You_Template\bin\Debug\Microsoft.Expression.Controls.dll
+D:\YouInteract BETA\You_AirPaint TEST\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+D:\YouInteract BETA\You_AirPaint TEST\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+D:\YouInteract BETA\You_AirPaint TEST\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+D:\YouInteract BETA\You_AirPaint TEST\You_Template\bin\Debug\YouInteract.dll
+D:\YouInteract BETA\You_AirPaint TEST\You_Template\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\YouInteract BETA\You_AirPaint TEST\You_Template\bin\Debug\Microsoft.Expression.Controls.xml
+D:\YouInteract BETA\You_AirPaint TEST\You_Template\bin\Debug\YouInteract.pdb
+D:\YouInteract BETA\You_AirPaint TEST\You_Template\bin\Debug\Microsoft.Expression.Drawing.xml
+D:\YouInteract BETA\You_AirPaint TEST\You_Template\obj\Debug\You_AirPaint.csprojResolveAssemblyReference.cache
+D:\YouInteract BETA\You_AirPaint TEST\You_Template\obj\Debug\Keyboard.baml
+D:\YouInteract BETA\You_AirPaint TEST\You_Template\obj\Debug\MainWindow.baml
+D:\YouInteract BETA\You_AirPaint TEST\You_Template\obj\Debug\Keyboard.g.cs
+D:\YouInteract BETA\You_AirPaint TEST\You_Template\obj\Debug\MainWindow.g.cs
+D:\YouInteract BETA\You_AirPaint TEST\You_Template\obj\Debug\AirPaint.g.cs
+D:\YouInteract BETA\You_AirPaint TEST\You_Template\obj\Debug\App.g.cs
+D:\YouInteract BETA\You_AirPaint TEST\You_Template\obj\Debug\You_AirPaint_MarkupCompile.cache
+D:\YouInteract BETA\You_AirPaint TEST\You_Template\obj\Debug\You_AirPaint_MarkupCompile.lref
+D:\YouInteract BETA\You_AirPaint TEST\You_Template\obj\Debug\AirPaint.baml
+D:\YouInteract BETA\You_AirPaint TEST\You_Template\obj\Debug\You_AirPaint.g.resources
+D:\YouInteract BETA\You_AirPaint TEST\You_Template\obj\Debug\You_AirPaint.Properties.Resources.resources
+D:\YouInteract BETA\You_AirPaint TEST\You_Template\obj\Debug\You_AirPaint.csproj.GenerateResource.Cache
+D:\YouInteract BETA\You_AirPaint No YouCursor\You_Template\bin\Debug\You_AirPaint.exe.config
+D:\YouInteract BETA\You_AirPaint No YouCursor\You_Template\obj\Debug\You_AirPaint.exe
+D:\YouInteract BETA\You_AirPaint No YouCursor\You_Template\obj\Debug\You_AirPaint.pdb
+D:\YouInteract BETA\You_AirPaint No YouCursor\You_Template\bin\Debug\You_AirPaint.exe
+D:\YouInteract BETA\You_AirPaint No YouCursor\You_Template\bin\Debug\You_AirPaint.pdb
+D:\YouInteract BETA\You_AirPaint No YouCursor\You_Template\bin\Debug\Microsoft.Expression.Controls.dll
+D:\YouInteract BETA\You_AirPaint No YouCursor\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+D:\YouInteract BETA\You_AirPaint No YouCursor\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+D:\YouInteract BETA\You_AirPaint No YouCursor\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+D:\YouInteract BETA\You_AirPaint No YouCursor\You_Template\bin\Debug\YouInteract.dll
+D:\YouInteract BETA\You_AirPaint No YouCursor\You_Template\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\YouInteract BETA\You_AirPaint No YouCursor\You_Template\bin\Debug\Microsoft.Expression.Controls.xml
+D:\YouInteract BETA\You_AirPaint No YouCursor\You_Template\bin\Debug\YouInteract.pdb
+D:\YouInteract BETA\You_AirPaint No YouCursor\You_Template\bin\Debug\Microsoft.Expression.Drawing.xml
+D:\YouInteract BETA\You_AirPaint No YouCursor\You_Template\obj\Debug\You_AirPaint.csprojResolveAssemblyReference.cache
+D:\YouInteract BETA\You_AirPaint No YouCursor\You_Template\obj\Debug\Keyboard.baml
+D:\YouInteract BETA\You_AirPaint No YouCursor\You_Template\obj\Debug\MainWindow.baml
+D:\YouInteract BETA\You_AirPaint No YouCursor\You_Template\obj\Debug\Keyboard.g.cs
+D:\YouInteract BETA\You_AirPaint No YouCursor\You_Template\obj\Debug\MainWindow.g.cs
+D:\YouInteract BETA\You_AirPaint No YouCursor\You_Template\obj\Debug\AirPaint.g.cs
+D:\YouInteract BETA\You_AirPaint No YouCursor\You_Template\obj\Debug\App.g.cs
+D:\YouInteract BETA\You_AirPaint No YouCursor\You_Template\obj\Debug\You_AirPaint_MarkupCompile.cache
+D:\YouInteract BETA\You_AirPaint No YouCursor\You_Template\obj\Debug\You_AirPaint_MarkupCompile.lref
+D:\YouInteract BETA\You_AirPaint No YouCursor\You_Template\obj\Debug\AirPaint.baml
+D:\YouInteract BETA\You_AirPaint No YouCursor\You_Template\obj\Debug\You_AirPaint.g.resources
+D:\YouInteract BETA\You_AirPaint No YouCursor\You_Template\obj\Debug\You_AirPaint.Properties.Resources.resources
+D:\YouInteract BETA\You_AirPaint No YouCursor\You_Template\obj\Debug\You_AirPaint.csproj.GenerateResource.Cache
+C:\Users\José\Desktop\You_AirPaint No YouCursor\You_Template\bin\Debug\You_AirPaint.exe.config
+C:\Users\José\Desktop\You_AirPaint No YouCursor\You_Template\obj\Debug\You_AirPaint.exe
+C:\Users\José\Desktop\You_AirPaint No YouCursor\You_Template\obj\Debug\You_AirPaint.pdb
+C:\Users\José\Desktop\You_AirPaint No YouCursor\You_Template\obj\Debug\You_AirPaint.csprojResolveAssemblyReference.cache
+C:\Users\José\Desktop\You_AirPaint No YouCursor\You_Template\obj\Debug\Keyboard.baml
+C:\Users\José\Desktop\You_AirPaint No YouCursor\You_Template\obj\Debug\MainWindow.baml
+C:\Users\José\Desktop\You_AirPaint No YouCursor\You_Template\obj\Debug\Keyboard.g.cs
+C:\Users\José\Desktop\You_AirPaint No YouCursor\You_Template\obj\Debug\MainWindow.g.cs
+C:\Users\José\Desktop\You_AirPaint No YouCursor\You_Template\obj\Debug\AirPaint.g.cs
+C:\Users\José\Desktop\You_AirPaint No YouCursor\You_Template\obj\Debug\App.g.cs
+C:\Users\José\Desktop\You_AirPaint No YouCursor\You_Template\obj\Debug\You_AirPaint_MarkupCompile.cache
+C:\Users\José\Desktop\You_AirPaint No YouCursor\You_Template\obj\Debug\You_AirPaint_MarkupCompile.lref
+C:\Users\José\Desktop\You_AirPaint No YouCursor\You_Template\bin\Debug\You_AirPaint.exe
+C:\Users\José\Desktop\You_AirPaint No YouCursor\You_Template\bin\Debug\You_AirPaint.pdb
+C:\Users\José\Desktop\You_AirPaint No YouCursor\You_Template\bin\Debug\KinectMouseController.dll
+C:\Users\José\Desktop\You_AirPaint No YouCursor\You_Template\bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\José\Desktop\You_AirPaint No YouCursor\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\José\Desktop\You_AirPaint No YouCursor\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\José\Desktop\You_AirPaint No YouCursor\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\José\Desktop\You_AirPaint No YouCursor\You_Template\bin\Debug\YouInteract.dll
+C:\Users\José\Desktop\You_AirPaint No YouCursor\You_Template\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\José\Desktop\You_AirPaint No YouCursor\You_Template\bin\Debug\Microsoft.Expression.Controls.xml
+C:\Users\José\Desktop\You_AirPaint No YouCursor\You_Template\bin\Debug\YouInteract.pdb
+C:\Users\José\Desktop\You_AirPaint No YouCursor\You_Template\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\José\Desktop\You_AirPaint No YouCursor\You_Template\obj\Debug\AirPaint.baml
+C:\Users\José\Desktop\You_AirPaint No YouCursor\You_Template\obj\Debug\You_AirPaint.g.resources
+C:\Users\José\Desktop\You_AirPaint No YouCursor\You_Template\obj\Debug\You_AirPaint.Properties.Resources.resources
+C:\Users\José\Desktop\You_AirPaint No YouCursor\You_Template\obj\Debug\You_AirPaint.csproj.GenerateResource.Cache
+D:\PEI\Air  Paint\You_AirPaint No YouCursor\You_Template\bin\Debug\You_AirPaint.exe.config
+D:\PEI\Air  Paint\You_AirPaint No YouCursor\You_Template\obj\Debug\You_AirPaint.exe
+D:\PEI\Air  Paint\You_AirPaint No YouCursor\You_Template\obj\Debug\You_AirPaint.pdb
+D:\PEI\Air  Paint\You_AirPaint No YouCursor\You_Template\bin\Debug\You_AirPaint.exe
+D:\PEI\Air  Paint\You_AirPaint No YouCursor\You_Template\bin\Debug\You_AirPaint.pdb
+D:\PEI\Air  Paint\You_AirPaint No YouCursor\You_Template\bin\Debug\KinectMouseController.dll
+D:\PEI\Air  Paint\You_AirPaint No YouCursor\You_Template\bin\Debug\Microsoft.Expression.Controls.dll
+D:\PEI\Air  Paint\You_AirPaint No YouCursor\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+D:\PEI\Air  Paint\You_AirPaint No YouCursor\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+D:\PEI\Air  Paint\You_AirPaint No YouCursor\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+D:\PEI\Air  Paint\You_AirPaint No YouCursor\You_Template\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\PEI\Air  Paint\You_AirPaint No YouCursor\You_Template\bin\Debug\Microsoft.Expression.Controls.xml
+D:\PEI\Air  Paint\You_AirPaint No YouCursor\You_Template\bin\Debug\YouInteract.pdb
+D:\PEI\Air  Paint\You_AirPaint No YouCursor\You_Template\bin\Debug\Microsoft.Expression.Drawing.xml
+D:\PEI\Air  Paint\You_AirPaint No YouCursor\You_Template\obj\Debug\You_AirPaint.csprojResolveAssemblyReference.cache
+D:\PEI\Air  Paint\You_AirPaint No YouCursor\You_Template\obj\Debug\Keyboard.baml
+D:\PEI\Air  Paint\You_AirPaint No YouCursor\You_Template\obj\Debug\MainWindow.baml
+D:\PEI\Air  Paint\You_AirPaint No YouCursor\You_Template\obj\Debug\Keyboard.g.cs
+D:\PEI\Air  Paint\You_AirPaint No YouCursor\You_Template\obj\Debug\MainWindow.g.cs
+D:\PEI\Air  Paint\You_AirPaint No YouCursor\You_Template\obj\Debug\AirPaint.g.cs
+D:\PEI\Air  Paint\You_AirPaint No YouCursor\You_Template\obj\Debug\App.g.cs
+D:\PEI\Air  Paint\You_AirPaint No YouCursor\You_Template\obj\Debug\You_AirPaint_MarkupCompile.cache
+D:\PEI\Air  Paint\You_AirPaint No YouCursor\You_Template\obj\Debug\You_AirPaint_MarkupCompile.lref
+D:\PEI\Air  Paint\You_AirPaint No YouCursor\You_Template\obj\Debug\AirPaint.baml
+D:\PEI\Air  Paint\You_AirPaint No YouCursor\You_Template\obj\Debug\You_AirPaint.g.resources
+D:\PEI\Air  Paint\You_AirPaint No YouCursor\You_Template\obj\Debug\You_AirPaint.Properties.Resources.resources
+D:\PEI\Air  Paint\You_AirPaint No YouCursor\You_Template\obj\Debug\You_AirPaint.csproj.GenerateResource.Cache
+F:\You_AirPaint FINAL\You_Template\bin\Debug\You_AirPaint.exe.config
+F:\You_AirPaint FINAL\You_Template\obj\Debug\You_AirPaint.exe
+F:\You_AirPaint FINAL\You_Template\obj\Debug\You_AirPaint.pdb
+F:\You_AirPaint FINAL\You_Template\obj\Debug\You_AirPaint.csprojResolveAssemblyReference.cache
+F:\You_AirPaint FINAL\You_Template\obj\Debug\MainWindow.baml
+F:\You_AirPaint FINAL\You_Template\obj\Debug\MainWindow.g.cs
+F:\You_AirPaint FINAL\You_Template\obj\Debug\AirPaint.g.cs
+F:\You_AirPaint FINAL\You_Template\obj\Debug\App.g.cs
+F:\You_AirPaint FINAL\You_Template\obj\Debug\You_AirPaint_MarkupCompile.cache
+F:\You_AirPaint FINAL\You_Template\obj\Debug\You_AirPaint_MarkupCompile.lref
+F:\You_AirPaint FINAL\You_Template\bin\Debug\You_AirPaint.exe
+F:\You_AirPaint FINAL\You_Template\bin\Debug\You_AirPaint.pdb
+F:\You_AirPaint FINAL\You_Template\bin\Debug\KinectMouseController.dll
+F:\You_AirPaint FINAL\You_Template\bin\Debug\Microsoft.Expression.Controls.dll
+F:\You_AirPaint FINAL\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+F:\You_AirPaint FINAL\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+F:\You_AirPaint FINAL\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+F:\You_AirPaint FINAL\You_Template\bin\Debug\Microsoft.Expression.Drawing.dll
+F:\You_AirPaint FINAL\You_Template\bin\Debug\Microsoft.Expression.Controls.xml
+F:\You_AirPaint FINAL\You_Template\bin\Debug\YouInteract.pdb
+F:\You_AirPaint FINAL\You_Template\bin\Debug\Microsoft.Expression.Drawing.xml
+F:\You_AirPaint FINAL\You_Template\obj\Debug\Keyboard.baml
+F:\You_AirPaint FINAL\You_Template\obj\Debug\Keyboard.g.cs
+F:\You_AirPaint FINAL\You_Template\obj\Debug\AirPaint.baml
+F:\You_AirPaint FINAL\You_Template\obj\Debug\You_AirPaint.g.resources
+F:\You_AirPaint FINAL\You_Template\obj\Debug\You_AirPaint.Properties.Resources.resources
+F:\You_AirPaint FINAL\You_Template\obj\Debug\You_AirPaint.csproj.GenerateResource.Cache
+C:\Users\José\Desktop\You_AirPaint FINAL\You_Template\bin\Debug\You_AirPaint.exe.config
+C:\Users\José\Desktop\You_AirPaint FINAL\You_Template\obj\Debug\You_AirPaint.exe
+C:\Users\José\Desktop\You_AirPaint FINAL\You_Template\obj\Debug\You_AirPaint.pdb
+C:\Users\José\Desktop\You_AirPaint FINAL\You_Template\bin\Debug\You_AirPaint.exe
+C:\Users\José\Desktop\You_AirPaint FINAL\You_Template\bin\Debug\You_AirPaint.pdb
+C:\Users\José\Desktop\You_AirPaint FINAL\You_Template\bin\Debug\KinectMouseController.dll
+C:\Users\José\Desktop\You_AirPaint FINAL\You_Template\bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\José\Desktop\You_AirPaint FINAL\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\José\Desktop\You_AirPaint FINAL\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\José\Desktop\You_AirPaint FINAL\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\José\Desktop\You_AirPaint FINAL\You_Template\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\José\Desktop\You_AirPaint FINAL\You_Template\bin\Debug\Microsoft.Expression.Controls.xml
+C:\Users\José\Desktop\You_AirPaint FINAL\You_Template\bin\Debug\YouInteract.pdb
+C:\Users\José\Desktop\You_AirPaint FINAL\You_Template\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\José\Desktop\You_AirPaint FINAL\You_Template\obj\Debug\You_AirPaint.csprojResolveAssemblyReference.cache
+C:\Users\José\Desktop\You_AirPaint FINAL\You_Template\obj\Debug\Keyboard.baml
+C:\Users\José\Desktop\You_AirPaint FINAL\You_Template\obj\Debug\MainWindow.baml
+C:\Users\José\Desktop\You_AirPaint FINAL\You_Template\obj\Debug\Keyboard.g.cs
+C:\Users\José\Desktop\You_AirPaint FINAL\You_Template\obj\Debug\MainWindow.g.cs
+C:\Users\José\Desktop\You_AirPaint FINAL\You_Template\obj\Debug\AirPaint.g.cs
+C:\Users\José\Desktop\You_AirPaint FINAL\You_Template\obj\Debug\App.g.cs
+C:\Users\José\Desktop\You_AirPaint FINAL\You_Template\obj\Debug\You_AirPaint_MarkupCompile.cache
+C:\Users\José\Desktop\You_AirPaint FINAL\You_Template\obj\Debug\You_AirPaint_MarkupCompile.lref
+C:\Users\José\Desktop\You_AirPaint FINAL\You_Template\obj\Debug\AirPaint.baml
+C:\Users\José\Desktop\You_AirPaint FINAL\You_Template\obj\Debug\You_AirPaint.g.resources
+C:\Users\José\Desktop\You_AirPaint FINAL\You_Template\obj\Debug\You_AirPaint.Properties.Resources.resources
+C:\Users\José\Desktop\You_AirPaint FINAL\You_Template\obj\Debug\You_AirPaint.csproj.GenerateResource.Cache
+C:\Users\José\Desktop\You_AirPaint FINAL\You_Template\bin\Debug\YouInteract.dll
+D:\YouInteract BETA\You_AirPaint FINAL\You_Template\bin\Debug\You_AirPaint.exe.config
+D:\YouInteract BETA\You_AirPaint FINAL\You_Template\obj\Debug\You_AirPaint.exe
+D:\YouInteract BETA\You_AirPaint FINAL\You_Template\obj\Debug\You_AirPaint.pdb
+D:\YouInteract BETA\You_AirPaint FINAL\You_Template\bin\Debug\You_AirPaint.exe
+D:\YouInteract BETA\You_AirPaint FINAL\You_Template\bin\Debug\You_AirPaint.pdb
+D:\YouInteract BETA\You_AirPaint FINAL\You_Template\bin\Debug\KinectMouseController.dll
+D:\YouInteract BETA\You_AirPaint FINAL\You_Template\bin\Debug\Microsoft.Expression.Controls.dll
+D:\YouInteract BETA\You_AirPaint FINAL\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+D:\YouInteract BETA\You_AirPaint FINAL\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+D:\YouInteract BETA\You_AirPaint FINAL\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+D:\YouInteract BETA\You_AirPaint FINAL\You_Template\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\YouInteract BETA\You_AirPaint FINAL\You_Template\bin\Debug\Microsoft.Expression.Controls.xml
+D:\YouInteract BETA\You_AirPaint FINAL\You_Template\bin\Debug\YouInteract.pdb
+D:\YouInteract BETA\You_AirPaint FINAL\You_Template\bin\Debug\Microsoft.Expression.Drawing.xml
+D:\YouInteract BETA\You_AirPaint FINAL\You_Template\obj\Debug\You_AirPaint.csprojResolveAssemblyReference.cache
+D:\YouInteract BETA\You_AirPaint FINAL\You_Template\obj\Debug\Keyboard.baml
+D:\YouInteract BETA\You_AirPaint FINAL\You_Template\obj\Debug\MainWindow.baml
+D:\YouInteract BETA\You_AirPaint FINAL\You_Template\obj\Debug\Keyboard.g.cs
+D:\YouInteract BETA\You_AirPaint FINAL\You_Template\obj\Debug\MainWindow.g.cs
+D:\YouInteract BETA\You_AirPaint FINAL\You_Template\obj\Debug\AirPaint.g.cs
+D:\YouInteract BETA\You_AirPaint FINAL\You_Template\obj\Debug\App.g.cs
+D:\YouInteract BETA\You_AirPaint FINAL\You_Template\obj\Debug\You_AirPaint_MarkupCompile.cache
+D:\YouInteract BETA\You_AirPaint FINAL\You_Template\obj\Debug\You_AirPaint_MarkupCompile.lref
+D:\YouInteract BETA\You_AirPaint FINAL\You_Template\obj\Debug\AirPaint.baml
+D:\YouInteract BETA\You_AirPaint FINAL\You_Template\obj\Debug\You_AirPaint.g.resources
+D:\YouInteract BETA\You_AirPaint FINAL\You_Template\obj\Debug\You_AirPaint.Properties.Resources.resources
+D:\YouInteract BETA\You_AirPaint FINAL\You_Template\obj\Debug\You_AirPaint.csproj.GenerateResource.Cache
+D:\YouInteract BETA\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint.pdb
+D:\YouInteract BETA\You_AirPaint Plugin\You_Template\bin\Debug\You_AirPaint.dll
+D:\YouInteract BETA\You_AirPaint Plugin\You_Template\bin\Debug\You_AirPaint.pdb
+D:\YouInteract BETA\You_AirPaint Plugin\You_Template\bin\Debug\KinectMouseController.dll
+D:\YouInteract BETA\You_AirPaint Plugin\You_Template\bin\Debug\Microsoft.Expression.Controls.dll
+D:\YouInteract BETA\You_AirPaint Plugin\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+D:\YouInteract BETA\You_AirPaint Plugin\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+D:\YouInteract BETA\You_AirPaint Plugin\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+D:\YouInteract BETA\You_AirPaint Plugin\You_Template\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\YouInteract BETA\You_AirPaint Plugin\You_Template\bin\Debug\Microsoft.Expression.Controls.xml
+D:\YouInteract BETA\You_AirPaint Plugin\You_Template\bin\Debug\Microsoft.Expression.Drawing.xml
+D:\YouInteract BETA\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint.csprojResolveAssemblyReference.cache
+D:\YouInteract BETA\You_AirPaint Plugin\You_Template\obj\Debug\Keyboard.baml
+D:\YouInteract BETA\You_AirPaint Plugin\You_Template\obj\Debug\Keyboard.g.cs
+D:\YouInteract BETA\You_AirPaint Plugin\You_Template\obj\Debug\AirPaint.g.cs
+D:\YouInteract BETA\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint_MarkupCompile.cache
+D:\YouInteract BETA\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint_MarkupCompile.lref
+D:\YouInteract BETA\You_AirPaint Plugin\You_Template\obj\Debug\AirPaint.baml
+D:\YouInteract BETA\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint.g.resources
+D:\YouInteract BETA\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint.Properties.Resources.resources
+D:\YouInteract BETA\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint.csproj.GenerateResource.Cache
+D:\YouInteract BETA\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint.dll
+D:\YouInteract BETA\You_AirPaint Plugin\You_Template\bin\Debug\YouInteract.dll
+F:\You_AirPaint Plugin\You_Template\bin\Debug\You_AirPaint.dll
+F:\You_AirPaint Plugin\You_Template\bin\Debug\You_AirPaint.pdb
+F:\You_AirPaint Plugin\You_Template\bin\Debug\KinectMouseController.dll
+F:\You_AirPaint Plugin\You_Template\bin\Debug\Microsoft.Expression.Controls.dll
+F:\You_AirPaint Plugin\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+F:\You_AirPaint Plugin\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+F:\You_AirPaint Plugin\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+F:\You_AirPaint Plugin\You_Template\bin\Debug\Microsoft.Expression.Drawing.dll
+F:\You_AirPaint Plugin\You_Template\bin\Debug\Microsoft.Expression.Controls.xml
+F:\You_AirPaint Plugin\You_Template\bin\Debug\Microsoft.Expression.Drawing.xml
+F:\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint.csprojResolveAssemblyReference.cache
+F:\You_AirPaint Plugin\You_Template\obj\Debug\Keyboard.baml
+F:\You_AirPaint Plugin\You_Template\obj\Debug\Keyboard.g.cs
+F:\You_AirPaint Plugin\You_Template\obj\Debug\AirPaint.g.cs
+F:\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint_MarkupCompile.cache
+F:\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint_MarkupCompile.lref
+F:\You_AirPaint Plugin\You_Template\obj\Debug\AirPaint.baml
+F:\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint.g.resources
+F:\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint.Properties.Resources.resources
+F:\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint.csproj.GenerateResource.Cache
+F:\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint.dll
+F:\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint.pdb
+D:\PEI\API\You_AirPaint Plugin\You_Template\bin\Debug\You_AirPaint.dll
+D:\PEI\API\You_AirPaint Plugin\You_Template\bin\Debug\You_AirPaint.pdb
+D:\PEI\API\You_AirPaint Plugin\You_Template\bin\Debug\KinectMouseController.dll
+D:\PEI\API\You_AirPaint Plugin\You_Template\bin\Debug\Microsoft.Expression.Controls.dll
+D:\PEI\API\You_AirPaint Plugin\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+D:\PEI\API\You_AirPaint Plugin\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+D:\PEI\API\You_AirPaint Plugin\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+D:\PEI\API\You_AirPaint Plugin\You_Template\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\PEI\API\You_AirPaint Plugin\You_Template\bin\Debug\Microsoft.Expression.Controls.xml
+D:\PEI\API\You_AirPaint Plugin\You_Template\bin\Debug\Microsoft.Expression.Drawing.xml
+D:\PEI\API\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint.csprojResolveAssemblyReference.cache
+D:\PEI\API\You_AirPaint Plugin\You_Template\obj\Debug\Keyboard.baml
+D:\PEI\API\You_AirPaint Plugin\You_Template\obj\Debug\Keyboard.g.cs
+D:\PEI\API\You_AirPaint Plugin\You_Template\obj\Debug\AirPaint.g.cs
+D:\PEI\API\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint_MarkupCompile.cache
+D:\PEI\API\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint_MarkupCompile.lref
+D:\PEI\API\You_AirPaint Plugin\You_Template\obj\Debug\AirPaint.baml
+D:\PEI\API\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint.g.resources
+D:\PEI\API\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint.Properties.Resources.resources
+D:\PEI\API\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint.csproj.GenerateResource.Cache
+D:\PEI\API\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint.dll
+D:\PEI\API\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint.pdb
+D:\IHC\You_AirPaint Plugin\You_Template\bin\Debug\You_AirPaint.dll
+D:\IHC\You_AirPaint Plugin\You_Template\bin\Debug\You_AirPaint.pdb
+D:\IHC\You_AirPaint Plugin\You_Template\bin\Debug\KinectMouseController.dll
+D:\IHC\You_AirPaint Plugin\You_Template\bin\Debug\Microsoft.Expression.Controls.dll
+D:\IHC\You_AirPaint Plugin\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+D:\IHC\You_AirPaint Plugin\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+D:\IHC\You_AirPaint Plugin\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+D:\IHC\You_AirPaint Plugin\You_Template\bin\Debug\YouInteract.dll
+D:\IHC\You_AirPaint Plugin\You_Template\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\IHC\You_AirPaint Plugin\You_Template\bin\Debug\Microsoft.Expression.Controls.xml
+D:\IHC\You_AirPaint Plugin\You_Template\bin\Debug\Microsoft.Expression.Drawing.xml
+D:\IHC\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint.csprojResolveAssemblyReference.cache
+D:\IHC\You_AirPaint Plugin\You_Template\obj\Debug\Keyboard.baml
+D:\IHC\You_AirPaint Plugin\You_Template\obj\Debug\Keyboard.g.cs
+D:\IHC\You_AirPaint Plugin\You_Template\obj\Debug\AirPaint.g.cs
+D:\IHC\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint_MarkupCompile.cache
+D:\IHC\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint_MarkupCompile.lref
+D:\IHC\You_AirPaint Plugin\You_Template\obj\Debug\AirPaint.baml
+D:\IHC\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint.g.resources
+D:\IHC\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint.Properties.Resources.resources
+D:\IHC\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint.csproj.GenerateResource.Cache
+D:\IHC\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint.dll
+D:\IHC\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint.pdb
+D:\Final IHC\You_AirPaint Plugin\You_Template\bin\Debug\You_AirPaint.dll
+D:\Final IHC\You_AirPaint Plugin\You_Template\bin\Debug\You_AirPaint.pdb
+D:\Final IHC\You_AirPaint Plugin\You_Template\bin\Debug\KinectMouseController.dll
+D:\Final IHC\You_AirPaint Plugin\You_Template\bin\Debug\Microsoft.Expression.Controls.dll
+D:\Final IHC\You_AirPaint Plugin\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+D:\Final IHC\You_AirPaint Plugin\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+D:\Final IHC\You_AirPaint Plugin\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+D:\Final IHC\You_AirPaint Plugin\You_Template\bin\Debug\YouInteract.dll
+D:\Final IHC\You_AirPaint Plugin\You_Template\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\Final IHC\You_AirPaint Plugin\You_Template\bin\Debug\Microsoft.Expression.Controls.xml
+D:\Final IHC\You_AirPaint Plugin\You_Template\bin\Debug\Microsoft.Expression.Drawing.xml
+D:\Final IHC\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint.csprojResolveAssemblyReference.cache
+D:\Final IHC\You_AirPaint Plugin\You_Template\obj\Debug\Keyboard.baml
+D:\Final IHC\You_AirPaint Plugin\You_Template\obj\Debug\Keyboard.g.cs
+D:\Final IHC\You_AirPaint Plugin\You_Template\obj\Debug\AirPaint.g.cs
+D:\Final IHC\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint_MarkupCompile.cache
+D:\Final IHC\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint_MarkupCompile.lref
+D:\Final IHC\You_AirPaint Plugin\You_Template\obj\Debug\AirPaint.baml
+D:\Final IHC\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint.g.resources
+D:\Final IHC\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint.Properties.Resources.resources
+D:\Final IHC\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint.csproj.GenerateResource.Cache
+D:\Final IHC\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint.dll
+D:\Final IHC\You_AirPaint Plugin\You_Template\obj\Debug\You_AirPaint.pdb
+C:\Users\NEEET\Desktop\release\You_AirPaint\You_Template\bin\Debug\You_AirPaint.dll
+C:\Users\NEEET\Desktop\release\You_AirPaint\You_Template\bin\Debug\You_AirPaint.pdb
+C:\Users\NEEET\Desktop\release\You_AirPaint\You_Template\bin\Debug\KinectMouseController.dll
+C:\Users\NEEET\Desktop\release\You_AirPaint\You_Template\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\NEEET\Desktop\release\You_AirPaint\You_Template\bin\Debug\Microsoft.Expression.Controls.xml
+C:\Users\NEEET\Desktop\release\You_AirPaint\You_Template\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\NEEET\Desktop\release\You_AirPaint\You_Template\obj\Debug\You_AirPaint.csprojResolveAssemblyReference.cache
+C:\Users\NEEET\Desktop\release\You_AirPaint\You_Template\obj\Debug\Keyboard.baml
+C:\Users\NEEET\Desktop\release\You_AirPaint\You_Template\obj\Debug\Keyboard.g.cs
+C:\Users\NEEET\Desktop\release\You_AirPaint\You_Template\obj\Debug\AirPaint.g.cs
+C:\Users\NEEET\Desktop\release\You_AirPaint\You_Template\obj\Debug\You_AirPaint_MarkupCompile.cache
+C:\Users\NEEET\Desktop\release\You_AirPaint\You_Template\obj\Debug\You_AirPaint_MarkupCompile.lref
+C:\Users\NEEET\Desktop\release\You_AirPaint\You_Template\obj\Debug\AirPaint.baml
+C:\Users\NEEET\Desktop\release\You_AirPaint\You_Template\obj\Debug\You_AirPaint.g.resources
+C:\Users\NEEET\Desktop\release\You_AirPaint\You_Template\obj\Debug\You_AirPaint.Properties.Resources.resources
+C:\Users\NEEET\Desktop\release\You_AirPaint\You_Template\obj\Debug\You_AirPaint.csproj.GenerateResource.Cache
+C:\Users\NEEET\Desktop\release\You_AirPaint\You_Template\obj\Debug\You_AirPaint.dll
+C:\Users\NEEET\Desktop\release\You_AirPaint\You_Template\obj\Debug\You_AirPaint.pdb
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_AirPaint\You_Template\bin\Debug\You_AirPaint.dll
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_AirPaint\You_Template\bin\Debug\You_AirPaint.pdb
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_AirPaint\You_Template\bin\Debug\KinectMouseController.dll
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_AirPaint\You_Template\bin\Debug\Microsoft.Expression.Controls.dll
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_AirPaint\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_AirPaint\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_AirPaint\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_AirPaint\You_Template\bin\Debug\Microsoft.Expression.Drawing.dll
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_AirPaint\You_Template\bin\Debug\Microsoft.Expression.Controls.xml
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_AirPaint\You_Template\bin\Debug\Microsoft.Expression.Drawing.xml
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_AirPaint\You_Template\obj\Debug\You_AirPaint.csprojResolveAssemblyReference.cache
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_AirPaint\You_Template\obj\Debug\Keyboard.baml
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_AirPaint\You_Template\obj\Debug\Keyboard.g.cs
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_AirPaint\You_Template\obj\Debug\AirPaint.g.cs
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_AirPaint\You_Template\obj\Debug\You_AirPaint_MarkupCompile.cache
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_AirPaint\You_Template\obj\Debug\You_AirPaint_MarkupCompile.lref
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_AirPaint\You_Template\obj\Debug\AirPaint.baml
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_AirPaint\You_Template\obj\Debug\You_AirPaint.g.resources
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_AirPaint\You_Template\obj\Debug\You_AirPaint.Properties.Resources.resources
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_AirPaint\You_Template\obj\Debug\You_AirPaint.csproj.GenerateResource.Cache
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_AirPaint\You_Template\obj\Debug\You_AirPaint.dll
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_AirPaint\You_Template\obj\Debug\You_AirPaint.pdb
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_AirPaint\You_Template\bin\Debug\You_AirPaint.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_AirPaint\You_Template\bin\Debug\You_AirPaint.pdb
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_AirPaint\You_Template\bin\Debug\KinectMouseController.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_AirPaint\You_Template\bin\Debug\Microsoft.Expression.Controls.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_AirPaint\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_AirPaint\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_AirPaint\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_AirPaint\You_Template\bin\Debug\YouInteract.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_AirPaint\You_Template\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_AirPaint\You_Template\bin\Debug\Microsoft.Expression.Controls.xml
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_AirPaint\You_Template\bin\Debug\Microsoft.Expression.Drawing.xml
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_AirPaint\You_Template\obj\Debug\You_AirPaint.csprojResolveAssemblyReference.cache
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_AirPaint\You_Template\obj\Debug\Keyboard.baml
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_AirPaint\You_Template\obj\Debug\Keyboard.g.cs
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_AirPaint\You_Template\obj\Debug\AirPaint.g.cs
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_AirPaint\You_Template\obj\Debug\You_AirPaint_MarkupCompile.cache
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_AirPaint\You_Template\obj\Debug\You_AirPaint_MarkupCompile.lref
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_AirPaint\You_Template\obj\Debug\AirPaint.baml
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_AirPaint\You_Template\obj\Debug\You_AirPaint.g.resources
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_AirPaint\You_Template\obj\Debug\You_AirPaint.Properties.Resources.resources
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_AirPaint\You_Template\obj\Debug\You_AirPaint.csproj.GenerateResource.Cache
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_AirPaint\You_Template\obj\Debug\You_AirPaint.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_AirPaint\You_Template\obj\Debug\You_AirPaint.pdb
+E:\YouInteract\Versão Vasco 02-06-2014\You_AirPaint\You_Template\bin\Debug\You_AirPaint.dll
+E:\YouInteract\Versão Vasco 02-06-2014\You_AirPaint\You_Template\bin\Debug\You_AirPaint.pdb
+E:\YouInteract\Versão Vasco 02-06-2014\You_AirPaint\You_Template\bin\Debug\KinectMouseController.dll
+E:\YouInteract\Versão Vasco 02-06-2014\You_AirPaint\You_Template\bin\Debug\Microsoft.Expression.Controls.dll
+E:\YouInteract\Versão Vasco 02-06-2014\You_AirPaint\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+E:\YouInteract\Versão Vasco 02-06-2014\You_AirPaint\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+E:\YouInteract\Versão Vasco 02-06-2014\You_AirPaint\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+E:\YouInteract\Versão Vasco 02-06-2014\You_AirPaint\You_Template\bin\Debug\Microsoft.Expression.Drawing.dll
+E:\YouInteract\Versão Vasco 02-06-2014\You_AirPaint\You_Template\bin\Debug\Microsoft.Expression.Controls.xml
+E:\YouInteract\Versão Vasco 02-06-2014\You_AirPaint\You_Template\bin\Debug\Microsoft.Expression.Drawing.xml
+E:\YouInteract\Versão Vasco 02-06-2014\You_AirPaint\You_Template\obj\Debug\You_AirPaint.csprojResolveAssemblyReference.cache
+E:\YouInteract\Versão Vasco 02-06-2014\You_AirPaint\You_Template\obj\Debug\Keyboard.baml
+E:\YouInteract\Versão Vasco 02-06-2014\You_AirPaint\You_Template\obj\Debug\Keyboard.g.cs
+E:\YouInteract\Versão Vasco 02-06-2014\You_AirPaint\You_Template\obj\Debug\AirPaint.g.cs
+E:\YouInteract\Versão Vasco 02-06-2014\You_AirPaint\You_Template\obj\Debug\You_AirPaint_MarkupCompile.cache
+E:\YouInteract\Versão Vasco 02-06-2014\You_AirPaint\You_Template\obj\Debug\You_AirPaint_MarkupCompile.lref
+E:\YouInteract\Versão Vasco 02-06-2014\You_AirPaint\You_Template\obj\Debug\AirPaint.baml
+E:\YouInteract\Versão Vasco 02-06-2014\You_AirPaint\You_Template\obj\Debug\You_AirPaint.g.resources
+E:\YouInteract\Versão Vasco 02-06-2014\You_AirPaint\You_Template\obj\Debug\You_AirPaint.Properties.Resources.resources
+E:\YouInteract\Versão Vasco 02-06-2014\You_AirPaint\You_Template\obj\Debug\You_AirPaint.csproj.GenerateResource.Cache
+E:\YouInteract\Versão Vasco 02-06-2014\You_AirPaint\You_Template\obj\Debug\You_AirPaint.dll
+E:\YouInteract\Versão Vasco 02-06-2014\You_AirPaint\You_Template\obj\Debug\You_AirPaint.pdb
+C:\Users\André\Desktop\FINAL\You_AirPaint\You_Template\bin\Debug\You_AirPaint.dll
+C:\Users\André\Desktop\FINAL\You_AirPaint\You_Template\bin\Debug\You_AirPaint.pdb
+C:\Users\André\Desktop\FINAL\You_AirPaint\You_Template\bin\Debug\KinectMouseController.dll
+C:\Users\André\Desktop\FINAL\You_AirPaint\You_Template\bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\André\Desktop\FINAL\You_AirPaint\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\André\Desktop\FINAL\You_AirPaint\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\André\Desktop\FINAL\You_AirPaint\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\André\Desktop\FINAL\You_AirPaint\You_Template\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\André\Desktop\FINAL\You_AirPaint\You_Template\bin\Debug\Microsoft.Expression.Controls.xml
+C:\Users\André\Desktop\FINAL\You_AirPaint\You_Template\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\André\Desktop\FINAL\You_AirPaint\You_Template\obj\Debug\You_AirPaint.csprojResolveAssemblyReference.cache
+C:\Users\André\Desktop\FINAL\You_AirPaint\You_Template\obj\Debug\Keyboard.baml
+C:\Users\André\Desktop\FINAL\You_AirPaint\You_Template\obj\Debug\Keyboard.g.cs
+C:\Users\André\Desktop\FINAL\You_AirPaint\You_Template\obj\Debug\AirPaint.g.cs
+C:\Users\André\Desktop\FINAL\You_AirPaint\You_Template\obj\Debug\You_AirPaint_MarkupCompile.cache
+C:\Users\André\Desktop\FINAL\You_AirPaint\You_Template\obj\Debug\You_AirPaint_MarkupCompile.lref
+C:\Users\André\Desktop\FINAL\You_AirPaint\You_Template\obj\Debug\AirPaint.baml
+C:\Users\André\Desktop\FINAL\You_AirPaint\You_Template\obj\Debug\You_AirPaint.g.resources
+C:\Users\André\Desktop\FINAL\You_AirPaint\You_Template\obj\Debug\You_AirPaint.Properties.Resources.resources
+C:\Users\André\Desktop\FINAL\You_AirPaint\You_Template\obj\Debug\You_AirPaint.csproj.GenerateResource.Cache
+C:\Users\André\Desktop\FINAL\You_AirPaint\You_Template\obj\Debug\You_AirPaint.dll
+C:\Users\André\Desktop\FINAL\You_AirPaint\You_Template\obj\Debug\You_AirPaint.pdb
+C:\Users\José\Desktop\You Interact\You_AirPaint\You_Template\bin\Debug\You_AirPaint.dll
+C:\Users\José\Desktop\You Interact\You_AirPaint\You_Template\bin\Debug\You_AirPaint.pdb
+C:\Users\José\Desktop\You Interact\You_AirPaint\You_Template\bin\Debug\KinectMouseController.dll
+C:\Users\José\Desktop\You Interact\You_AirPaint\You_Template\bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\José\Desktop\You Interact\You_AirPaint\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\José\Desktop\You Interact\You_AirPaint\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\José\Desktop\You Interact\You_AirPaint\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\José\Desktop\You Interact\You_AirPaint\You_Template\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\José\Desktop\You Interact\You_AirPaint\You_Template\bin\Debug\Microsoft.Expression.Controls.xml
+C:\Users\José\Desktop\You Interact\You_AirPaint\You_Template\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\José\Desktop\You Interact\You_AirPaint\You_Template\obj\Debug\You_AirPaint.csprojResolveAssemblyReference.cache
+C:\Users\José\Desktop\You Interact\You_AirPaint\You_Template\obj\Debug\Keyboard.baml
+C:\Users\José\Desktop\You Interact\You_AirPaint\You_Template\obj\Debug\Keyboard.g.cs
+C:\Users\José\Desktop\You Interact\You_AirPaint\You_Template\obj\Debug\AirPaint.g.cs
+C:\Users\José\Desktop\You Interact\You_AirPaint\You_Template\obj\Debug\You_AirPaint_MarkupCompile.cache
+C:\Users\José\Desktop\You Interact\You_AirPaint\You_Template\obj\Debug\You_AirPaint_MarkupCompile.lref
+C:\Users\José\Desktop\You Interact\You_AirPaint\You_Template\obj\Debug\AirPaint.baml
+C:\Users\José\Desktop\You Interact\You_AirPaint\You_Template\obj\Debug\You_AirPaint.g.resources
+C:\Users\José\Desktop\You Interact\You_AirPaint\You_Template\obj\Debug\You_AirPaint.Properties.Resources.resources
+C:\Users\José\Desktop\You Interact\You_AirPaint\You_Template\obj\Debug\You_AirPaint.csproj.GenerateResource.Cache
+C:\Users\José\Desktop\You Interact\You_AirPaint\You_Template\obj\Debug\You_AirPaint.dll
+C:\Users\José\Desktop\You Interact\You_AirPaint\You_Template\obj\Debug\You_AirPaint.pdb
+D:\YouInteract BETA\FINAL\You Interact\You_AirPaint\You_Template\bin\Debug\You_AirPaint.dll
+D:\YouInteract BETA\FINAL\You Interact\You_AirPaint\You_Template\bin\Debug\You_AirPaint.pdb
+D:\YouInteract BETA\FINAL\You Interact\You_AirPaint\You_Template\bin\Debug\KinectMouseController.dll
+D:\YouInteract BETA\FINAL\You Interact\You_AirPaint\You_Template\bin\Debug\Microsoft.Expression.Controls.dll
+D:\YouInteract BETA\FINAL\You Interact\You_AirPaint\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+D:\YouInteract BETA\FINAL\You Interact\You_AirPaint\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+D:\YouInteract BETA\FINAL\You Interact\You_AirPaint\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+D:\YouInteract BETA\FINAL\You Interact\You_AirPaint\You_Template\bin\Debug\YouInteract.dll
+D:\YouInteract BETA\FINAL\You Interact\You_AirPaint\You_Template\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\YouInteract BETA\FINAL\You Interact\You_AirPaint\You_Template\bin\Debug\Microsoft.Expression.Controls.xml
+D:\YouInteract BETA\FINAL\You Interact\You_AirPaint\You_Template\bin\Debug\Microsoft.Expression.Drawing.xml
+D:\YouInteract BETA\FINAL\You Interact\You_AirPaint\You_Template\obj\Debug\You_AirPaint.csprojResolveAssemblyReference.cache
+D:\YouInteract BETA\FINAL\You Interact\You_AirPaint\You_Template\obj\Debug\Keyboard.baml
+D:\YouInteract BETA\FINAL\You Interact\You_AirPaint\You_Template\obj\Debug\Keyboard.g.cs
+D:\YouInteract BETA\FINAL\You Interact\You_AirPaint\You_Template\obj\Debug\AirPaint.g.cs
+D:\YouInteract BETA\FINAL\You Interact\You_AirPaint\You_Template\obj\Debug\You_AirPaint_MarkupCompile.cache
+D:\YouInteract BETA\FINAL\You Interact\You_AirPaint\You_Template\obj\Debug\You_AirPaint_MarkupCompile.lref
+D:\YouInteract BETA\FINAL\You Interact\You_AirPaint\You_Template\obj\Debug\AirPaint.baml
+D:\YouInteract BETA\FINAL\You Interact\You_AirPaint\You_Template\obj\Debug\You_AirPaint.g.resources
+D:\YouInteract BETA\FINAL\You Interact\You_AirPaint\You_Template\obj\Debug\You_AirPaint.Properties.Resources.resources
+D:\YouInteract BETA\FINAL\You Interact\You_AirPaint\You_Template\obj\Debug\You_AirPaint.csproj.GenerateResource.Cache
+D:\YouInteract BETA\FINAL\You Interact\You_AirPaint\You_Template\obj\Debug\You_AirPaint.dll
+D:\YouInteract BETA\FINAL\You Interact\You_AirPaint\You_Template\obj\Debug\You_AirPaint.pdb

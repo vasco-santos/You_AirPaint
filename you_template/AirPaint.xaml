@@ -1,0 +1,103 @@
+﻿<Page x:Class="You_AirPaint.AirPaint"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:k="http://schemas.microsoft.com/kinect/2013"
+      xmlns:ignore="http://www.ignore.com"
+      xmlns:youAirPaint="clr-namespace:You_AirPaint"
+      mc:Ignorable="d ignore"
+      
+      DataContext="{Binding RelativeSource={RelativeSource Self}}"
+      
+      Width="{DynamicResource {x:Static SystemParameters.MaximizedPrimaryScreenWidthKey}}" Height="{DynamicResource {x:Static SystemParameters.MaximumWindowTrackHeightKey}}" Cursor="None"
+	  Title="AirPaint" x:Name="YouAirPaint">
+    <Page.Resources>
+        <Style x:Key="MyButtonStyle" TargetType="Button">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid Background="{TemplateBinding Background}">
+                            <ContentPresenter HorizontalAlignment="Center"
+                        VerticalAlignment="Center"/>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Page.Resources>
+    <Canvas MouseMove="MouseMoveHandler">
+        <Canvas x:Name="HelpCanvas">
+            <Button x:Name="start" Click="Start_Click" Style="{StaticResource MyButtonStyle}"
+                    Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}">
+                <Image Source="/You_AirPaint;component/Images/Help/startIcon.png" Stretch="Fill"/>
+            </Button>
+            <Image x:Name="LeftArrowColours" Source="/You_AirPaint;component/Images/Help/leftArrow.png" Stretch="Fill"></Image>
+            <Image x:Name="RightArrowTools" Source="/You_AirPaint;component/Images/Help/rightArrow.png" Stretch="Fill"></Image>
+            <Image x:Name="Features" Source="/You_AirPaint;component/Images/Help/Features.png" Stretch="Fill"></Image>
+            <Image x:Name="SelectColour" Source="/You_AirPaint;component/Images/Help/SelectColour.png" Stretch="Fill"></Image>
+            <Image x:Name="SelectTool" Source="/You_AirPaint;component/Images/Help/SelectTool.png" Stretch="Fill"></Image>
+            <Image x:Name="StartPainting" Source="/You_AirPaint;component/Images/Help/StartPainting.png" Stretch="Fill"></Image>
+            <Image x:Name="FeaturesDesc" Source="/You_AirPaint;component/Images/Help/FeaturesDesc.png" Stretch="Fill"></Image>
+            <Image x:Name="SelectColourDesc" Source="/You_AirPaint;component/Images/Help/SelectColourDesc.png" Stretch="Fill"></Image>
+            <Image x:Name="SelectToolDesc" Source="/You_AirPaint;component/Images/Help/SelectToolDesc.png" Stretch="Fill"></Image>
+            <Image x:Name="StartPaintingDesc" Source="/You_AirPaint;component/Images/Help/StartPaintingDesc.png" Stretch="Fill"></Image>
+            <Image x:Name="StartImage" Source="/You_AirPaint;component/Images/Help/Start.png" Stretch="Fill"></Image>
+            <Image x:Name="RightArrowStart" Source="/You_AirPaint;component/Images/Help/rightArrow.png" Stretch="Fill"></Image>
+
+            <Canvas.Background>White</Canvas.Background>
+        </Canvas>
+        <Border x:Name="PaintCanvasBorder">
+            <Canvas x:Name="PaintCanvas" SizeChanged="PaintCanvas_SizeChanged">
+                <Image x:Name="KinectVideo" Stretch="UniformToFill"/>
+                <Image x:Name="PaintImage" Stretch="None"/>
+                <Canvas.Background>White</Canvas.Background>
+            </Canvas>
+        </Border>
+        
+        <Canvas x:Name="YouAirPaintCanvas" >
+            <Image x:Name="Titulo" Stretch="Fill"/>
+            <Button x:Name="MainMenuButton"  Click="Button_Click" Style="{StaticResource MyButtonStyle}"
+                             Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}">
+                <Image Source="/You_AirPaint;component/Images/Themes/Theme1/Navigation/back.png" Stretch="Fill"/>
+            </Button>
+
+            <Button x:Name="Up" Click="Button_Click" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}" Style="{StaticResource MyButtonStyle}">
+                <Image Source="/You_AirPaint;component/Images/Themes/Theme1/Navigation/up.png" Stretch="Fill"/>
+            </Button>
+
+            <Button x:Name="Down" Click="Button_Click" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}" Style="{StaticResource MyButtonStyle}">
+                <Image Source="/You_AirPaint;component/Images/Themes/Theme1/Navigation/down.png" Stretch="Fill"/>
+            </Button>
+
+            <Button x:Name="Restart" Click="Button_Click" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}" Style="{StaticResource MyButtonStyle}">
+                <Image Source="/You_AirPaint;component/Images/Themes/Theme1/Navigation/new.png" Stretch="Fill"/>
+            </Button>
+            <Button x:Name="Mail" Click="Button_Click" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}" Style="{StaticResource MyButtonStyle}">
+                <Image Source="/You_AirPaint;component/Images/Themes/Theme1/Navigation/mail.png" Stretch="Fill"/>
+            </Button>
+            <Button x:Name="Cam" Click="Button_Click" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}" Style="{StaticResource MyButtonStyle}">
+                <Image Source="/You_AirPaint;component/Images/Themes/Theme1/Navigation/cam.png" Stretch="Fill"/>
+            </Button>
+            <Canvas x:Name="WrapTools">
+                <Image x:Name="Tool0"></Image>
+                <Image x:Name="Tool1"></Image>
+                <Image x:Name="Tool2"></Image>
+                <Image x:Name="Tool3"></Image>
+            </Canvas>
+
+            <ScrollViewer Name="ScrollViewer" HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility="Hidden">
+                <WrapPanel x:Name="WrapScrollPanel" Orientation="Horizontal" k:KinectTileButton.Click="Button_Click_Colours">
+                </WrapPanel>
+            </ScrollViewer>
+
+        </Canvas>
+
+        <Image IsHitTestVisible="False" x:Name="Pointer" Source="Images/crosshair4.png" Panel.ZIndex="9000">
+
+        </Image>
+        <Canvas.Background>
+            <ImageBrush ImageSource="/You_AirPaint;component/Images/Themes/Theme1/Background/background2.jpg" Opacity="0.9"></ImageBrush>
+        </Canvas.Background>
+    </Canvas>
+</Page>

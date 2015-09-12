@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3FAA71A1-17AB-428C-B23B-E0E6DF182F32}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>You_AirPaint</RootNamespace>
+    <AssemblyName>You_AirPaint</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="KinectMouseController">
+      <HintPath>.\KinectMouseController.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Expression.Controls, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Kinect, Version=1.8.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Kinect.Toolkit, Version=1.8.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Assemblies\Microsoft.Kinect.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Kinect.Toolkit.Controls, Version=1.8.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Assemblies\Microsoft.Kinect.Toolkit.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Kinect.Toolkit.Interaction, Version=1.8.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Assemblies\Microsoft.Kinect.Toolkit.Interaction.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="WindowsFormsIntegration" />
+    <Reference Include="YouInteract, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\VascoSantos\Downloads\YouInteract.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AirPaint.xaml.cs">
+      <DependentUpon>AirPaint.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="HoverTimer.cs" />
+    <Compile Include="YouPaint\PaintTools.cs" />
+    <Compile Include="YouPaint\Tool.cs" />
+    <Compile Include="YouPaint\YouBrush.cs" />
+    <Page Include="Keyboard.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Compile Include="Keyboard.xaml.cs">
+      <DependentUpon>Keyboard.xaml</DependentUpon>
+    </Compile>
+    <Page Include="AirPaint.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Tela.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Themes\Theme1\Background\background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Themes\Theme1\Navigation\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\crosshair4.png" />
+    <Resource Include="Images\crosshair5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\airpaint.png" />
+    <Resource Include="Images\airpaint_logo.png" />
+    <Resource Include="Images\airpaint_logo2.png" />
+    <Resource Include="Images\erase1.png" />
+    <Resource Include="Images\erase2.png" />
+    <Resource Include="Images\lapis1.png" />
+    <Resource Include="Images\lapis2.png" />
+    <Resource Include="Images\lata1.png" />
+    <Resource Include="Images\lata2.png" />
+    <Resource Include="Images\pincel1.png" />
+    <Resource Include="Images\pincel2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Themes\Theme1\Navigation\cam.png" />
+    <Resource Include="Images\Themes\Theme1\Navigation\mail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Themes\Theme1\Navigation\down.png" />
+    <Resource Include="Images\Themes\Theme1\Navigation\up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Keyboard\0.png" />
+    <Resource Include="Images\Keyboard\1.png" />
+    <Resource Include="Images\Keyboard\2.png" />
+    <Resource Include="Images\Keyboard\3.png" />
+    <Resource Include="Images\Keyboard\4.png" />
+    <Resource Include="Images\Keyboard\5.png" />
+    <Resource Include="Images\Keyboard\6.png" />
+    <Resource Include="Images\Keyboard\7.png" />
+    <Resource Include="Images\Keyboard\8.png" />
+    <Resource Include="Images\Keyboard\9.png" />
+    <Resource Include="Images\Keyboard\a.png" />
+    <Resource Include="Images\Keyboard\arroba.png" />
+    <Resource Include="Images\Keyboard\b.png" />
+    <Resource Include="Images\Keyboard\c.png" />
+    <Resource Include="Images\Keyboard\clear.png" />
+    <Resource Include="Images\Keyboard\d.png" />
+    <Resource Include="Images\Keyboard\e.png" />
+    <Resource Include="Images\Keyboard\f.png" />
+    <Resource Include="Images\Keyboard\g.png" />
+    <Resource Include="Images\Keyboard\h.png" />
+    <Resource Include="Images\Keyboard\i.png" />
+    <Resource Include="Images\Keyboard\j.png" />
+    <Resource Include="Images\Keyboard\k.png" />
+    <Resource Include="Images\Keyboard\l.png" />
+    <Resource Include="Images\Keyboard\m.png" />
+    <Resource Include="Images\Keyboard\n.png" />
+    <Resource Include="Images\Keyboard\o.png" />
+    <Resource Include="Images\Keyboard\p.png" />
+    <Resource Include="Images\Keyboard\ponto.png" />
+    <Resource Include="Images\Keyboard\q.png" />
+    <Resource Include="Images\Keyboard\r.png" />
+    <Resource Include="Images\Keyboard\s.png" />
+    <Resource Include="Images\Keyboard\simbols.png" />
+    <Resource Include="Images\Keyboard\t.png" />
+    <Resource Include="Images\Keyboard\u.png" />
+    <Resource Include="Images\Keyboard\under.png" />
+    <Resource Include="Images\Keyboard\v.png" />
+    <Resource Include="Images\Keyboard\w.png" />
+    <Resource Include="Images\Keyboard\x.png" />
+    <Resource Include="Images\Keyboard\y.png" />
+    <Resource Include="Images\Keyboard\z.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Themes\Theme1\Background\background2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Help\Features.png" />
+    <Resource Include="Images\Help\SelectColour.png" />
+    <Resource Include="Images\Help\SelectColourDesc.png" />
+    <Resource Include="Images\Help\SelectTool.png" />
+    <Resource Include="Images\Help\SelectToolDesc.png" />
+    <Resource Include="Images\Help\StartPainting.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Help\FeaturesDesc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Help\leftArrow.png" />
+    <Resource Include="Images\Help\rightArrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Help\Start.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Themes\Theme1\Navigation\New.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Help\StartIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Help\StartPaintingDesc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Keyboard\traco.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Keyboard\email.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Keyboard\letras.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
